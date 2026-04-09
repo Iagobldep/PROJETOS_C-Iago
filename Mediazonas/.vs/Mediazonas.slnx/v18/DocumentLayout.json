@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV\\source\\repos\\Mediazonas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1542A81C-D041-4B9C-BB5A-CF5429A05C15}|Mediazonas\\Mediazonas.csproj|c:\\users\\dev\\source\\repos\\mediazonas\\mediazonas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1542A81C-D041-4B9C-BB5A-CF5429A05C15}|Mediazonas\\Mediazonas.csproj|solutionrelative:mediazonas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\source\\repos\\Mediazonas\\Mediazonas\\Program.cs",
+              "RelativeDocumentMoniker": "Mediazonas\\Program.cs",
+              "ToolTip": "C:\\Users\\DEV\\source\\repos\\Mediazonas\\Mediazonas\\Program.cs",
+              "RelativeToolTip": "Mediazonas\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwD8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T12:00:49.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
