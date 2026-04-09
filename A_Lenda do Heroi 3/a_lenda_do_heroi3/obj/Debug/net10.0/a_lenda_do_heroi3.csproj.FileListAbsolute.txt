@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\bin\Debug\net10.0\a_lenda_do_heroi3.exe
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\bin\Debug\net10.0\a_lenda_do_heroi3.deps.json
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\bin\Debug\net10.0\a_lenda_do_heroi3.runtimeconfig.json
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\bin\Debug\net10.0\a_lenda_do_heroi3.dll
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\bin\Debug\net10.0\a_lenda_do_heroi3.pdb
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\obj\Debug\net10.0\a_lenda_do_heroi3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\obj\Debug\net10.0\a_lenda_do_heroi3.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\obj\Debug\net10.0\a_lenda_do_heroi3.AssemblyInfo.cs
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\obj\Debug\net10.0\a_lenda_do_heroi3.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\obj\Debug\net10.0\a_lenda_do_heroi3.dll
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\obj\Debug\net10.0\refint\a_lenda_do_heroi3.dll
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\obj\Debug\net10.0\a_lenda_do_heroi3.pdb
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\obj\Debug\net10.0\a_lenda_do_heroi3.genruntimeconfig.cache
+C:\Users\DEV\source\repos\a_lenda_do_heroi3\a_lenda_do_heroi3\obj\Debug\net10.0\ref\a_lenda_do_heroi3.dll
