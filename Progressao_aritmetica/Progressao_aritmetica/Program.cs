@@ -9,6 +9,14 @@ Console.WriteLine("---------------------------------\n");
 Thread.Sleep(1000);
 float razao;
 int vezes;
+float comeco;
+
+Console.WriteLine("digite o número inicial da progressão aritmética:");
+while (!float.TryParse(Console.ReadLine(), out comeco))
+{
+    Console.WriteLine("um número válido, por favor");
+    float.TryParse(Console.ReadLine(), out comeco);
+}
 
 Console.WriteLine("digite a RAZÃO da progressão aritmética:");
 while (!float.TryParse(Console.ReadLine(), out razao))
@@ -24,8 +32,9 @@ while (!int.TryParse(Console.ReadLine(), out vezes))
     int.TryParse(Console.ReadLine(), out vezes);
 }
 
-for (float i = 0; i <= vezes; i += razao)
+for (float i = comeco; i <= vezes; i += razao)
 {
-    Console.Write($"{(i == 0?"":$"{i} ➡️ ")}");
+    Console.Write($"{i} ➡️ ");
+    Thread.Sleep(1);
 }
 Console.WriteLine("👍");

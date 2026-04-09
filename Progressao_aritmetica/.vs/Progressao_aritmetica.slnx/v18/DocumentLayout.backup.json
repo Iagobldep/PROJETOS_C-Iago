@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\DEV\\source\\repos\\Progressao_aritmetica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AB2158F-642C-4E66-B5E2-C15629D5CB32}|Progressao_aritmetica\\Progressao_aritmetica.csproj|c:\\users\\dev\\source\\repos\\progressao_aritmetica\\progressao_aritmetica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB2158F-642C-4E66-B5E2-C15629D5CB32}|Progressao_aritmetica\\Progressao_aritmetica.csproj|solutionrelative:progressao_aritmetica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D0E026A-BD28-5461-6575-D94A52FC076C}|Progressao_aritmetica\\Progressao_aritmetica.csproj|c:\\users\\dev\\source\\repos\\progressao_aritmetica\\progressao_aritmetica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0E026A-BD28-5461-6575-D94A52FC076C}|Progressao_aritmetica\\Progressao_aritmetica.csproj|solutionrelative:progressao_aritmetica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Progressao_aritmetica\\Program.cs",
               "ToolTip": "C:\\Users\\DEV\\source\\repos\\Progressao_aritmetica\\Progressao_aritmetica\\Program.cs",
               "RelativeToolTip": "Progressao_aritmetica\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T13:48:20.344Z",
               "EditorCaption": ""
