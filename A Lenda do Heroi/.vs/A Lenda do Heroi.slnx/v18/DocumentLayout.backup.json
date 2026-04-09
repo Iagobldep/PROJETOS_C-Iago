@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV\\source\\repos\\A Lenda do Heroi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E150ABC9-1CCA-E752-9188-0935CC288B8C}|A Lenda do Heroi\\A Lenda do Heroi.csproj|c:\\users\\dev\\source\\repos\\a lenda do heroi\\a lenda do heroi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E150ABC9-1CCA-E752-9188-0935CC288B8C}|A Lenda do Heroi\\A Lenda do Heroi.csproj|solutionrelative:a lenda do heroi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E150ABC9-1CCA-E752-9188-0935CC288B8C}|A Lenda do Heroi\\A Lenda do Heroi.csproj|c:\\users\\dev\\source\\repos\\a lenda do heroi\\a lenda do heroi\\a lenda do heroi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E150ABC9-1CCA-E752-9188-0935CC288B8C}|A Lenda do Heroi\\A Lenda do Heroi.csproj|solutionrelative:a lenda do heroi\\a lenda do heroi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\source\\repos\\A Lenda do Heroi\\A Lenda do Heroi\\Program.cs",
+              "RelativeDocumentMoniker": "A Lenda do Heroi\\Program.cs",
+              "ToolTip": "C:\\Users\\DEV\\source\\repos\\A Lenda do Heroi\\A Lenda do Heroi\\Program.cs",
+              "RelativeToolTip": "A Lenda do Heroi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:12:38.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A Lenda do Heroi",
+              "DocumentMoniker": "C:\\Users\\DEV\\source\\repos\\A Lenda do Heroi\\A Lenda do Heroi\\A Lenda do Heroi.csproj",
+              "RelativeDocumentMoniker": "A Lenda do Heroi\\A Lenda do Heroi.csproj",
+              "ToolTip": "C:\\Users\\DEV\\source\\repos\\A Lenda do Heroi\\A Lenda do Heroi\\A Lenda do Heroi.csproj",
+              "RelativeToolTip": "A Lenda do Heroi\\A Lenda do Heroi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T16:12:32.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\obj\Debug\net10.0\A Lenda do Heroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\obj\Debug\net10.0\A Lenda do Heroi.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\obj\Debug\net10.0\A Lenda do Heroi.AssemblyInfo.cs
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\obj\Debug\net10.0\A Lenda do Heroi.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\bin\Debug\net10.0\A Lenda do Heroi.exe
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\bin\Debug\net10.0\A Lenda do Heroi.deps.json
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\bin\Debug\net10.0\A Lenda do Heroi.runtimeconfig.json
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\bin\Debug\net10.0\A Lenda do Heroi.dll
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\bin\Debug\net10.0\A Lenda do Heroi.pdb
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\obj\Debug\net10.0\A Lenda do Heroi.dll
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\obj\Debug\net10.0\refint\A Lenda do Heroi.dll
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\obj\Debug\net10.0\A Lenda do Heroi.pdb
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\obj\Debug\net10.0\A Lenda do Heroi.genruntimeconfig.cache
+C:\Users\DEV\source\repos\A Lenda do Heroi\A Lenda do Heroi\obj\Debug\net10.0\ref\A Lenda do Heroi.dll

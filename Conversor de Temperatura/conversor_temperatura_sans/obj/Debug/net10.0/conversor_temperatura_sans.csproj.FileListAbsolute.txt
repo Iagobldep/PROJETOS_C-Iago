@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\bin\Debug\net10.0\conversor_temperatura_sans.exe
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\bin\Debug\net10.0\conversor_temperatura_sans.deps.json
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\bin\Debug\net10.0\conversor_temperatura_sans.runtimeconfig.json
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\bin\Debug\net10.0\conversor_temperatura_sans.dll
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\bin\Debug\net10.0\conversor_temperatura_sans.pdb
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\obj\Debug\net10.0\conversor_temperatura_sans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\obj\Debug\net10.0\conversor_temperatura_sans.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\obj\Debug\net10.0\conversor_temperatura_sans.AssemblyInfo.cs
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\obj\Debug\net10.0\conversor_temperatura_sans.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\obj\Debug\net10.0\conversor_temperatura_sans.dll
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\obj\Debug\net10.0\refint\conversor_temperatura_sans.dll
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\obj\Debug\net10.0\conversor_temperatura_sans.pdb
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\obj\Debug\net10.0\conversor_temperatura_sans.genruntimeconfig.cache
+C:\Users\DEV\source\repos\conversor_temperatura_sans\conversor_temperatura_sans\obj\Debug\net10.0\ref\conversor_temperatura_sans.dll
