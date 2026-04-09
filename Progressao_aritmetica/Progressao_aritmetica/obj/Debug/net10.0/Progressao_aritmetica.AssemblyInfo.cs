@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("A Lenda do Heroi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Progressao_aritmetica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc75e6bcc464808748bf3ed11f59d23d73cdc160")]
-[assembly: System.Reflection.AssemblyProductAttribute("A Lenda do Heroi")]
-[assembly: System.Reflection.AssemblyTitleAttribute("A Lenda do Heroi")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("Progressao_aritmetica")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Progressao_aritmetica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
