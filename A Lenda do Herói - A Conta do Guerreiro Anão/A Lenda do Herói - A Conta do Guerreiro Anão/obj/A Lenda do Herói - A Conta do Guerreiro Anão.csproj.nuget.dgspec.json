@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DEV\\source\\repos\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão.csproj": {}
+    "C:\\Users\\iagob\\Documents\\Visual Studio\\repos\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DEV\\source\\repos\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão.csproj": {
+    "C:\\Users\\iagob\\Documents\\Visual Studio\\repos\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DEV\\source\\repos\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão.csproj",
+        "projectUniqueName": "C:\\Users\\iagob\\Documents\\Visual Studio\\repos\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão.csproj",
         "projectName": "A Lenda do Herói - A Conta do Guerreiro Anão",
-        "projectPath": "C:\\Users\\DEV\\source\\repos\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão.csproj",
-        "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DEV\\source\\repos\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão\\obj\\",
+        "projectPath": "C:\\Users\\iagob\\Documents\\Visual Studio\\repos\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão.csproj",
+        "packagesPath": "C:\\Users\\iagob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iagob\\Documents\\Visual Studio\\repos\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\iagob\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,7 +26,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -49,7 +44,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -67,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

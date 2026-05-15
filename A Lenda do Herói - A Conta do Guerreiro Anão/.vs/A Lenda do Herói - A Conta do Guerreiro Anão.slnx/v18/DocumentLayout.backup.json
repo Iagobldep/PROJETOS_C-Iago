@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iagob\\Documents\\Visual Studio\\repos\\A Lenda do Her\u00F3i - A Conta do Guerreiro An\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8488C3-B36E-83EB-1557-295901C915B3}|A Lenda do Her\u00F3i - A Conta do Guerreiro An\u00E3o\\A Lenda do Her\u00F3i - A Conta do Guerreiro An\u00E3o.csproj|c:\\users\\iagob\\documents\\visual studio\\repos\\a lenda do her\u00F3i - a conta do guerreiro an\u00E3o\\a lenda do her\u00F3i - a conta do guerreiro an\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8488C3-B36E-83EB-1557-295901C915B3}|A Lenda do Her\u00F3i - A Conta do Guerreiro An\u00E3o\\A Lenda do Her\u00F3i - A Conta do Guerreiro An\u00E3o.csproj|solutionrelative:a lenda do her\u00F3i - a conta do guerreiro an\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iagob\\Documents\\Visual Studio\\repos\\A Lenda do Her\u00F3i - A Conta do Guerreiro An\u00E3o\\A Lenda do Her\u00F3i - A Conta do Guerreiro An\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "A Lenda do Her\u00F3i - A Conta do Guerreiro An\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\iagob\\Documents\\Visual Studio\\repos\\A Lenda do Her\u00F3i - A Conta do Guerreiro An\u00E3o\\A Lenda do Her\u00F3i - A Conta do Guerreiro An\u00E3o\\Program.cs*",
+              "RelativeToolTip": "A Lenda do Her\u00F3i - A Conta do Guerreiro An\u00E3o\\Program.cs*",
+              "ViewState": "AgIAANAAAAAAAAAAAAAiwAYBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T22:54:43.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
