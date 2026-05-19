@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "OsKXyl/xiOs=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\DEV\\source\\repos\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "pUuMBWYLkas=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iagob\\Documents\\Visual Studio\\repos\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão\\A Lenda do Herói - A Conta do Guerreiro Anão.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> f55d727bd24c417e767feefde92b585043e33c5a
 }
