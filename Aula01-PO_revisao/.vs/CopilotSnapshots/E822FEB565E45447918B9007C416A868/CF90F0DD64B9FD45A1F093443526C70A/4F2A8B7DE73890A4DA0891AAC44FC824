@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Text;
+
+namespace Aula01_PO_revisao.components
+{
+    internal class Universo
+    {
+
+        /*Criação de Métodos*/
+
+        private string planeta;
+        private string lua;
+        private double massaPlaneta;
+        private DateTime dataDescoberta;
+
+        public void anotacoes(object objetoParaInserir)
+        {
+            string textoDoObjeto = objetoParaInserir.ToString();
+            string caminhoArquivo = Path.Combine(Path.GetTempPath());
+            File.WriteAllText(caminhoArquivo, textoDoObjeto);
+            Process startNotepad = new Process();
+            startNotepad.StartInfo.FileName = "notepad.exe";
+            startNotepad.StartInfo.Arguments = caminhoArquivo;
+            startNotepad.Start();
+        }
+        public Universo(string planeta, string lua, double massaPlaneta, DateTime dataDescoberta)
+        {
+            this.planeta = planeta;
+            this.lua = lua;
+            this.massaPlaneta = massaPlaneta;
+            this.dataDescoberta = dataDescoberta;
+        }
+
+        public string Planeta { get => planeta; set => planeta = value; }
+        public string Lua { get => lua; set => lua = value; }
+        public double MassaPlaneta { get => massaPlaneta; set => massaPlaneta = value; }
+        public DateTime DataDescoberta { get => dataDescoberta; set => dataDescoberta = value; }
+    }

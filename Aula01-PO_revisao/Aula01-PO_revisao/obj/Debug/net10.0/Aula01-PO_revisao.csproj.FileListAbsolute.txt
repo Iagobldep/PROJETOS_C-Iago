@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\bin\Debug\net10.0\Aula01-PO_revisao.exe
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\bin\Debug\net10.0\Aula01-PO_revisao.deps.json
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\bin\Debug\net10.0\Aula01-PO_revisao.runtimeconfig.json
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\bin\Debug\net10.0\Aula01-PO_revisao.dll
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\bin\Debug\net10.0\Aula01-PO_revisao.pdb
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\obj\Debug\net10.0\Aula01-PO_revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\obj\Debug\net10.0\Aula01-PO_revisao.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\obj\Debug\net10.0\Aula01-PO_revisao.AssemblyInfo.cs
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\obj\Debug\net10.0\Aula01-PO_revisao.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\obj\Debug\net10.0\Aula01-PO_revisao.dll
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\obj\Debug\net10.0\refint\Aula01-PO_revisao.dll
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\obj\Debug\net10.0\Aula01-PO_revisao.pdb
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\obj\Debug\net10.0\Aula01-PO_revisao.genruntimeconfig.cache
+C:\Users\DEV\source\repos\Aula01-PO_revisao\Aula01-PO_revisao\obj\Debug\net10.0\ref\Aula01-PO_revisao.dll
